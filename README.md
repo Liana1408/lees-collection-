@@ -1,6 +1,8 @@
+A static web app 
+a website that delivers fixed content to users without dynamic updates. It typically showcases essential information about the business, such as services, products, contact details, and company background. Static web apps are faster to load, cost-effective, and suitable for businesses not requiring frequent content changes.
+
 # lees
-first version of lees collection online store
-used html,css and some elements of jquery
-currently the online store is static 
-users can communicate with the owner via email or other social media platforms specified
+lees collection online store
+used html,css, js and some elements of jquery
+
 
