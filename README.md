@@ -6,3 +6,4 @@ lees collection online store
 used html,css, js and some elements of jquery
 
 
+https://leescollection.netlify.app
